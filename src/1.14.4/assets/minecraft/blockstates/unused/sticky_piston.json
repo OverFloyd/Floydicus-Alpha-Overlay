@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "extended=false,facing=down": { "model": "block/sticky_piston", "x": 90 },
+        "extended=false,facing=up": { "model": "block/sticky_piston", "x": 270 },
+        "extended=false,facing=north": { "model": "block/sticky_piston_lateral" },
+        "extended=false,facing=south": { "model": "block/sticky_piston_lateral", "y": 180 },
+        "extended=false,facing=west": { "model": "block/sticky_piston_lateral", "y": 270 },
+        "extended=false,facing=east": { "model": "block/sticky_piston_lateral", "y": 90 },
+        "extended=true,facing=down": { "model": "block/piston_base", "x": 90 },
+        "extended=true,facing=up": { "model": "block/piston_base", "x": 270 },
+        "extended=true,facing=north": { "model": "block/piston_base_lateral" },
+        "extended=true,facing=south": { "model": "block/piston_base_lateral", "y": 180 },
+        "extended=true,facing=west": { "model": "block/piston_base_lateral", "y": 270 },
+        "extended=true,facing=east": { "model": "block/piston_base_lateral", "y": 90 }
+    }
+}

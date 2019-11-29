@@ -1,0 +1,12 @@
+{   "parent": "block/cube",
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "blocks/cactus_side",
+        "down": "blocks/cactus_bottom",
+        "up": "blocks/cactus_side",
+        "north": "blocks/cactus_side",
+        "east": "blocks/cactus_side",
+        "south": "blocks/cactus_side",
+        "west": "blocks/cactus_side"
+    }
+}

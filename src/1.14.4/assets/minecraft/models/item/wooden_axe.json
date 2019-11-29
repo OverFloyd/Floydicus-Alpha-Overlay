@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "display": {
+        "gui": {
+            "translation": [ -1, 0, 0 ]
+        }
+    },
+    "textures": {
+        "layer0": "item/wooden_axe"
+    }
+}
