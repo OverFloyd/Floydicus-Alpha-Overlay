@@ -21,3 +21,11 @@ v1.0
 - Gold ore texture from 0.0.14a
 - Restyled pistons
 - Old spider texture from 0.26 SURVIVAL TEST
+
+v1.0.1
+- Updated pistons: custom bottom texture
+- 1.12.2
+* Deleted redundand late beta bricks texture
+
+v1.0.1_01
+- Added early texture for pufferfish (1.7 snapshots)

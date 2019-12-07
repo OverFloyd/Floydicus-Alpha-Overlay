@@ -8,10 +8,14 @@ DISCLAIMER: this resource pack is meant to be used un top of the "Floydicus Old 
 Project started: oct 17, 2019
 
 1.14.4
-- First release v1.0:
+- First release v1.0: 29/11/2019
+- Minor piston update v1.0.1: 29/11/2019
+- 1.0.1_01: 7/12/2019
 
 1.12.2
-- First release v1.0:
+- First release v1.0: 29/11/2019
+- Minor piston update v1.0.1: 29/11/2019
+- 1.0.1_01: 7/12/2019
 
 -------------------------------------------------------------
 
@@ -39,6 +43,7 @@ FEATURES:
 - Gold ore texture from 0.0.14a
 - Restyled pistons
 - Old spider texture from 0.26 SURVIVAL TEST
+- Early pufferfish item sprite (1.7 snapshots)
 
 -------------------------------------------------------------
 
