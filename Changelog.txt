@@ -1,0 +1,63 @@
+Floydicus Alpha Overlay
+For Minecraft 1.14.4
+Programmer art for 1.14 and above needed
+
+DISCLAIMER: this resource pack is meant to be used un top of the "Floydicus Old Pack" resource pack.
+
+-------------------------------------------------------------
+Project started: oct 17, 2019
+
+1.14.4
+- First release v1.0: 29/11/2019
+- Minor piston update v1.0.1: 29/11/2019
+- v1.0.1_01: 7/12/2019
+- v1.0.2: 26/12/2019
+
+1.12.2
+- First release v1.0: 29/11/2019
+- Minor piston update v1.0.1: 29/11/2019
+- v1.0.1_01: 7/12/2019
+- v1.0.2: 26/12/2019
+
+-------------------------------------------------------------
+
+FEATURES:
+- Infdev rails
+- Brick (block, slab and stairs) variants from infdev 
+- Nyan leaves, jungle leaves now use the first version of leaves from 0.0.14a
+- Nyan grass, ferns, vines and grass block
+- Old early lava
+- Old minecart from Infdev
+- Gears/cogs for redstone
+- Mirrored oak door from Infdev (custom versions for newer ones)
+- Old textures for gold, iron and diamond block
+- Restyled emerald block
+- Old furnaces (stone top)
+- Restyled dispensers/droppers
+- Early zombie pigmen texture from a1.2.0 preview
+- No sounds for ghasts
+- Old ladder sprite from Infdev 20100607
+- Old full block model for cactus, normal model for dropped item form
+- Old torches from Indev
+- Grass block: old inventory top texture (flipped to the left)
+- Old axe variants
+- Beacon texture from 12w32a
+- Gold ore texture from 0.0.14a
+- Restyled pistons
+- Old spider texture from 0.26 SURVIVAL TEST
+- Old black cows with kazoo sounds
+- Early pufferfish item sprite (1.7 snapshots)
+
+-------------------------------------------------------------
+
+Recommended settings
+* Smooth lighting off
+* Light set to moody
+* FOV set to normal (70)
+
+-------------------------------------------------------------
+
+Let me know if there are any issues or any suggestions at OverFloyd#2686 on discord or u/OverFloyd on reddit. Credits to Mojang for the original textures.
+
+OverFloyd
+October 17, 2019

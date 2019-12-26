@@ -1,0 +1,85 @@
+{
+  "entity.cow.ambient": {
+    "category": "ambient",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/cow/say1"
+      }
+    ]
+  },
+  "entity.cow.hurt": {
+    "category": "ambient",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/cow/hurt1"
+      }
+    ]
+  },
+  "entity.cow.death": {
+    "category": "ambient",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.cow.hurt"
+      }
+    ]
+  },
+  "entity.ghast.ambient": {
+    "category": "ambient",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "blank"
+      }
+    ]
+  },
+  "entity.ghast.death": {
+    "category": "ambient",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "blank"
+      }
+    ]
+  },
+  "entity.ghast.hurt": {
+    "category": "ambient",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "blank"
+      }
+    ]
+  },
+  "entity.ghast.scream": {
+    "category": "ambient",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "blank"
+      }
+    ]
+  },
+  "entity.ghast.shoot": {
+    "category": "ambient",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "blank"
+      }
+    ]
+  },
+  "entity.ghast.warn": {
+    "category": "ambient",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "blank"
+      }
+    ]
+  }
+}
+
